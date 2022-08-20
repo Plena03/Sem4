@@ -1,0 +1,15 @@
+D:\C#_3\Sem4\DZ_29\bin\Debug\net6.0\DZ_29.exe
+D:\C#_3\Sem4\DZ_29\bin\Debug\net6.0\DZ_29.deps.json
+D:\C#_3\Sem4\DZ_29\bin\Debug\net6.0\DZ_29.runtimeconfig.json
+D:\C#_3\Sem4\DZ_29\bin\Debug\net6.0\DZ_29.dll
+D:\C#_3\Sem4\DZ_29\bin\Debug\net6.0\DZ_29.pdb
+D:\C#_3\Sem4\DZ_29\obj\Debug\net6.0\DZ_29.csproj.AssemblyReference.cache
+D:\C#_3\Sem4\DZ_29\obj\Debug\net6.0\DZ_29.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_3\Sem4\DZ_29\obj\Debug\net6.0\DZ_29.AssemblyInfoInputs.cache
+D:\C#_3\Sem4\DZ_29\obj\Debug\net6.0\DZ_29.AssemblyInfo.cs
+D:\C#_3\Sem4\DZ_29\obj\Debug\net6.0\DZ_29.csproj.CoreCompileInputs.cache
+D:\C#_3\Sem4\DZ_29\obj\Debug\net6.0\DZ_29.dll
+D:\C#_3\Sem4\DZ_29\obj\Debug\net6.0\refint\DZ_29.dll
+D:\C#_3\Sem4\DZ_29\obj\Debug\net6.0\DZ_29.pdb
+D:\C#_3\Sem4\DZ_29\obj\Debug\net6.0\DZ_29.genruntimeconfig.cache
+D:\C#_3\Sem4\DZ_29\obj\Debug\net6.0\ref\DZ_29.dll
